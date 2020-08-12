@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Download project zip folder and extract
 
-### `cd <app>`
+### `cd <folder name>`
 
 ## Available Scripts
 
@@ -28,3 +28,7 @@ Project is built using React. It uses reactstrap components along with bootstrap
 For handling routes react-router-dom has been used. 
 
 Axios has been used for fetching data from apis. It is a promise based HTTP client for the browser and node.js
+
+## Page Speed
+
+Page speed for the project is above for both mobile and desktop in PageSpeed Insights.
