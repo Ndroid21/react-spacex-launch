@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Download project zip folder and extract
 
-### `cd app`
+### `cd <app>`
 
 ## Available Scripts
 
